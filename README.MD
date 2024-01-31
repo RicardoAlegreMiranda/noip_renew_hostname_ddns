@@ -7,7 +7,8 @@ This package is used to automate ddns renewal with the NOIP provider using: pyth
 - Install webdriver_manager (pip install webdriver_manager)
 - edit the Json "config.json", 
 
-![noip3](https://github.com/RicardoAlegreMiranda/noip_renew_hostname_ddns/assets/40073353/ae2ce70a-d18b-4a3d-b16a-8e0641c2297b)
+![300929613-ae2ce70a-d18b-4a3d-b16a-8e0641c2297b](https://github.com/RicardoAlegreMiranda/noip_renew_hostname_ddns/assets/40073353/55d0169a-0676-4ecd-aa04-f24239d13244)
+
 
 ## Use
 - run the file: renew_ddns.py in python console
@@ -27,7 +28,7 @@ renew.start()
 
 Example of use (console):
 
-![CapturaNoIp](https://github.com/RicardoAlegreMiranda/noip_renew_hostname_ddns/assets/40073353/724a3cc4-6071-48f0-b396-db71720122e7)
+![300929727-724a3cc4-6071-48f0-b396-db71720122e7](https://github.com/RicardoAlegreMiranda/noip_renew_hostname_ddns/assets/40073353/621afc5c-076a-467b-ab9f-bc3569469823)
 
 
 ## Disclaimer
