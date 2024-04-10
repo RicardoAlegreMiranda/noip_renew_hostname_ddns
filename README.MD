@@ -1,4 +1,4 @@
-## No IP renew ddns
+## No-IP renew ddns
 This package is used to automate ddns renewal with the NOIP provider using: python, selenium and chromedriver
 
 ## Install
